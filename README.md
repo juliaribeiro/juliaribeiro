@@ -4,11 +4,12 @@
 <div align="left">
     <p>Hi, I'm Julia Matos <img alt="Brasil" src="https://emojis.slackmojis.com/emojis/images/1591808522/9339/brazil.png?1591808522" width="15" /></p>
     <ul>
-        <li>💻 Working as a .NET developer at <a  href="https://www.linkedin.com/company/ntl-nova-tecnologia-ltda./">NTL</a></li>
+        <li>💻 Working as a .NET developer at <a  href="https://www.linkedin.com/company/ntl-nova-tecnologia-ltda./">@NTL</a></li>
         <li>🎓 I have a bachelor degree in Computer Information Systems (<a href="https://www.unilasalle.edu.br/rj">@UnilasalleRJ</a>)</li>
     <li>☕ Professional coffee drinker</li>
-<li>🕵️‍♀️ Always being curious and building things, available to help and learn together</li>
+<li>🕵️‍♀️ AAlways curious and building things, available to help and learn together</li>
 </ul>
+
 <h2>Tech Stack</h2>
 
 ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
